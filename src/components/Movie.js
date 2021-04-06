@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import NavBar from "./NavBar";
-const apiKey = process.env.REACT_APP_NASA_KEY;
+
 const idOrTitle = {
     "Title": "Superman",
     "Year": "1978",
@@ -186,7 +186,7 @@ export default function Examples3() {
 
       return (
       <>
-                  <div className='topSection'>
+            <div className='topSection'>
                 <div  className='titleImage'>
                   <img src='/img/movie.jpg'></img>
                 </div>
@@ -195,7 +195,7 @@ export default function Examples3() {
                 </div>
             </div>
               <br />
-        <NavBar></NavBar>
+        
         <h2> If you dont't have it yet get your Free <a target='_blank' href='http://www.omdbapi.com/apikey.aspx'>OMDB API</a> key</h2>
         <h1>OMDB API</h1> 
      
@@ -555,7 +555,10 @@ export default function Examples3() {
 <br />
 </div>
 </div>
-
+<br />
+<br />
+<br />
+<br />
         </>
       )
 }
