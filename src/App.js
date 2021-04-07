@@ -13,11 +13,9 @@ export default function App() {
     <BrowserRouter>
       <div className="app">
         <NavBar />
-          <Route component={APIGo} path="/APIGo" exact />
           <Route component={APIGo} path="/" exact />
+          <Route component={APIGo} path="/APIGo" exact />
           <Route component={Examples} path="/Examples" />
-          <Route component={Nasa} path="/Nasa" />
-
       </div>
     </BrowserRouter>
   );

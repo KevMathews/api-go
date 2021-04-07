@@ -399,7 +399,7 @@ export default function Examples3() {
 <br />
 <br />
 <h1>*** By Search ***</h1>
-<div className='exampleTopDiv'>
+<div className='exampleTopDiv1'>
 <h2>Query Parameters:</h2>
 <h4><br />Please note query searches using s will return multiple titles, while using i or t will return just 1 title.</h4>
 <hr className='exampleHr' />
