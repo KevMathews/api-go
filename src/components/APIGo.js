@@ -13,7 +13,7 @@ import React from "react";
         <br />
         <div className='welcomeContainerDiv'>
           <div className='apiGoLogoDivMain'> 
-          <img src='/img/api-go.png'></img>
+          <img src='/img/api-go.gif'></img>
           </div>
         </div>
         <br />
