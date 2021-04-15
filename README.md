@@ -3,7 +3,7 @@ Early example and inquirer work before we moved to the repo below
 <br>
 https://github.com/KevMathews/real_project_5/tree/newFeatures
 <br>
-<img src='./img/api-go.gif' />
+<img src='/img/api-go.gif' />
 
 ## Welcome to API-Go 
 ### The dev package designed to help jump start your React website!
