@@ -1,7 +1,7 @@
 <div align="center"> 
 Early examples pages made and testing of inquirer work before we moved to the repo below 
 <br>
-https://github.com/KevMathews/real_project_5/tree/newFeatures
+https://github.com/KevMathews/real_project_5
 <br>
 <img src='./public/img/api-go.gif' />
 
